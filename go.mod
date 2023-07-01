@@ -1,3 +1,3 @@
-module github.com/kalielze/go-module.git
+module github.com/kalielze/go-module
 
 go 1.18
